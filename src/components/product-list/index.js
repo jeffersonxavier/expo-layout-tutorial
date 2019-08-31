@@ -10,7 +10,7 @@ export default class ProductList extends Component {
       products: [
         {
           id: 1,
-          image: 'https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=28010875',
+          image: 'https://cdn.shopify.com/s/files/1/2693/5196/products/hat_front_1024x1024_2x_f95c4ed4-e7b6-4496-b981-0606fd0e9514_530x@2x.png',
           title: 'Acne Studios',
           description: 'Andrea nappa dusty pink',
           price: 'R$50,00',
@@ -24,7 +24,7 @@ export default class ProductList extends Component {
         },
         {
           id: 3,
-          image: 'https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=28010875',
+          image: 'https://cdn.shopify.com/s/files/1/2693/5196/products/hat_front_1024x1024_2x_f95c4ed4-e7b6-4496-b981-0606fd0e9514_530x@2x.png',
           title: 'Acne Studios',
           description: 'Andrea nappa dusty pink',
           price: 'R$30,00',

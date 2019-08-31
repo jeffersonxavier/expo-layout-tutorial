@@ -6,7 +6,6 @@ const styles = StyleSheet.create({
     container: {
         backgroundColor: colors.white,
         height: metrics.tabBarHeight,
-        paddingHorizontal: metrics.padding,
         flexDirection: 'row',
         borderTopColor: colors.lighter,
         borderTopWidth: 1,

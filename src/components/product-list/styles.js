@@ -6,7 +6,10 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         padding: metrics.padding,
-    }
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+        justifyContent: 'space-between',
+    },
 });
 
 export default styles;
